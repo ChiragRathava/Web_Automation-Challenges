@@ -8,7 +8,7 @@ import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.Test;
 import org.testng.Assert;
 
-public class level_1 {
+public class Challenge_1 {
 
     @Description("Web_Table")
     @Test

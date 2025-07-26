@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Chirag/IdeaProjects/Web_Automation-Challenges">
+        <classes>
+
+            <class name="com.ChiragRathava.Challenge_1"> </class>
+
+            <class name="com.ChiragRathava.Challenge_2"> </class>
+
+            <class name="com.ChiragRathava.Challenge_3"> </class>
+
+            <class name="com.ChiragRathava.Challenge_4"> </class>
+
+
+            <class name="com.ChiragRathava.tests.TableColumnSumTest_Challenge1"> </class>
+
+            <class name="com.ChiragRathava.tests.WebTablesTest_Challenge2"> </class>
+
+            <class name="com.ChiragRathava.tests.content_of_theModel_Challenge3"> </class>
+
+            <class name="com.ChiragRathava.tests.Parallel_Execute_Challenge4"> </class>
+
+
+        </classes>
+    </test>
+</suite>

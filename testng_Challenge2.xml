@@ -3,9 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Chirag/IdeaProjects/Web_Automation-Challenges">
         <classes>
-            <class name="com.ChiragRathava.tests.WebTablesTest_Challenge2">
-
-            </class>
+            <class name="com.ChiragRathava.tests.WebTablesTest_Challenge2"> </class>
         </classes>
     </test>
 </suite>
